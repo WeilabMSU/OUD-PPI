@@ -1,7 +1,7 @@
 # Machine-learning Analysis of Opioid Use Disorder Informed by MOR, DOR, KOR, NOR and ZOR-Based Interactome Networks
 
 ---
-This script is for the paper "Machine-learning Analysis of Opioid Use Disorder Informed by MOR, DOR, KOR, NOR and ZOR-Based Interactome Networks". With the script, machine-learning regression model based on natural language processing (NPL) method can be built.
+This script is for the paper "Machine-learning Analysis of Opioid Use Disorder Informed by MOR, DOR, KOR, NOR and ZOR-Based Interactome Networks". With the script, machine-learning regression model based on natural language processing (NLP) method can be built.
 
 ## Requirements
 
