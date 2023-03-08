@@ -57,7 +57,7 @@ python build-GBDT-regression.py --feature_path features/MOR.npy --label_path MOR
 
 ## Reference
 
-1. Hongsong Feng, Rana Elladki, Jian Jiang, and Guo-Wei Wei, Machine-learning Analysis of Opioid Use Disorder Informed by MOR, DOR, KOR, NOR and ZOR-Based Interactome Networks, in print (2023).
+1. Hongsong Feng, Rana Elladki, Jian Jiang, and Guo-Wei Wei, Machine-learning Analysis of Opioid Use Disorder Informed by MOR, DOR, KOR, NOR and ZOR-Based Interactome Networks, Computers in Biology and Medicine (2023).
 
 2. Dong Chen, Jiaxin Zheng, Guo-Wei Wei, and Feng Pan. Extracting predictive representations from
 hundreds of millions of molecules. The Journal of Physical Chemistry Letters, 12(44):10793–10801, 2021.
